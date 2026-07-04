@@ -1,0 +1,9 @@
+requests
+tqdm
+numpy==1.26.4
+openpyxl
+pandas==2.2.3
+huggingface-hub==0.10.1
+transformers==4.24.0
+sentence-transformers==2.2.2
+llama-cpp-python==0.3.28
