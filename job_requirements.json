@@ -1,0 +1,110 @@
+{
+    "experience_duration": "5,9",
+    "ideal_experience_duration": "6,8",
+    "primary_experience_areas": "production experience with embeddings-based retrieval systems (sentence-transformers, OpenAI embeddings, BGE, E5, or similar); production level operational experience with vector databases or hybrid search infrastructure (Pinecone, Weaviate, Qdrant, Milvus, OpenSearch, Elasticsearch, FAISS, or similar); Strong Python; Hands-on experience designing evaluation frameworks for ranking systems (NDCG, MRR, MAP, offline-to-online correlation, A/B test interpretation); LLM fine-tuning experience (LoRA, QLoRA, PEFT); Experience with learning-to-rank models (XGBoost-based or neural)",
+    "secondary_experience_areas": "Prior exposure to HR-tech; recruiting tech, or marketplace products; Background in distributed systems or large-scale inference optimization; Open-source contributions in the AI/ML space",
+    "not_preferred_experience": "pure research experience; no production deployment exerperience; last 12 months of projects using langchain by calling openai; senior engineers without writing production code in last 18 months",
+    "education_field": "Bachelor's degree in Computer Science, Engineering, or related field; Master's degree in AI, Machine Learning, or Data Science; or equivalent professional certification (e.g., AWS Certified Machine Learning, Google Cloud Professional ML Engineer, Microsoft Azure ML Professional)",
+    "certifications": "",
+    "preferred_skills": {
+        "core_required": [
+            {
+                "skill_id": "ML_PRODUCTION_SYSTEMS",
+                "min_months": 36,
+                "proficiency": 5,
+                "mandatory": true
+            },
+            {
+                "skill_id": "EMBEDDINGS",
+                "min_months": 24,
+                "proficiency": 5,
+                "mandatory": true
+            },
+            {
+                "skill_id": "RETRIEVAL_SYSTEMS",
+                "min_months": 24,
+                "proficiency": 5,
+                "mandatory": true
+            },
+            {
+                "skill_id": "VECTOR_DB",
+                "min_months": 24,
+                "proficiency": 4,
+                "mandatory": true
+            },
+            {
+                "skill_id": "HYBRID_SEARCH",
+                "min_months": 24,
+                "proficiency": 4,
+                "mandatory": true
+            },
+            {
+                "skill_id": "PYTHON",
+                "min_months": 36,
+                "proficiency": 5,
+                "mandatory": true
+            },
+            {
+                "skill_id": "RANKING_SYSTEMS_EVALUATION",
+                "min_months": 24,
+                "proficiency": 5,
+                "mandatory": true
+            },
+            {
+                "skill_id": "EVALUATION_FRAMEWORKS",
+                "min_months": 24,
+                "proficiency": 5,
+                "mandatory": true
+            },
+            {
+                "skill_id": "AB_TESTING",
+                "min_months": 18,
+                "proficiency": 4,
+                "mandatory": true
+            }
+        ],
+        "secondary_skills": [
+            {
+                "skill_id": "LLM_FINE_TUNING",
+                "min_months": 12,
+                "proficiency": 3,
+                "mandatory": false
+            },
+            {
+                "skill_id": "LEARNING_TO_RANK",
+                "min_months": 12,
+                "proficiency": 4,
+                "mandatory": false
+            },
+            {
+                "skill_id": "HR_TECH",
+                "min_months": 6,
+                "proficiency": 3,
+                "mandatory": false
+            },
+            {
+                "skill_id": "DISTRIBUTED_SYSTEMS",
+                "min_months": 12,
+                "proficiency": 3,
+                "mandatory": false
+            },
+            {
+                "skill_id": "OPEN_SOURCE_CONTRIBUTION",
+                "min_months": 6,
+                "proficiency": 2,
+                "mandatory": false
+            }
+        ]
+    },
+    "not_preferred_skills": "consulting firm experience; primary experience in computer vision; speech or robotics without significant NLP/IR exposure",
+    "language": "English, Hindi",
+    "primary_work_location": "Pune, Noida",
+    "secondary_work_location": "Hyderabad, Mumbai, Delhi",
+    "current_job_title": "Senior AI Engineer",
+    "undesired_roles": "Lead, Manager, Consultant",
+    "industry": "AI",
+    "international_candidates_consideration": true,
+    "international_relocation_support": false,
+    "work_model": "On-site / Hybrid",
+    "notice_period": "0,60"
+}
